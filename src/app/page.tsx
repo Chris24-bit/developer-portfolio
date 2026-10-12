@@ -415,9 +415,8 @@ export default function Home() {
             <span className="text-cyan-400"> /&gt;</span>
           </a>
           <p>
-            © {new Date().getFullYear()} Christopher Dendero. Built with
-            Next.js.
-          </p>
+  © 2026 Christopher Dendero. Built with Next.js.
+</p>
           <a href="#home" className="transition hover:text-cyan-400">
             Back to top ↑
           </a>
