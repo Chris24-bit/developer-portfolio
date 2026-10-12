@@ -394,11 +394,11 @@ export default function Home() {
           </p>
 
           <a
-            href="mailto:christopherdendero@gmail.com"
-            className="mt-9 inline-flex rounded-full bg-cyan-400 px-8 py-4 font-semibold text-[#080b12] transition hover:bg-cyan-300"
-          >
-            Email Me ↗
-          </a>
+  href="mailto:christopherdendero@gmail.com"
+  className="transition hover:text-cyan-400"
+>
+  YOUR_EMAIL@gmail.com
+</a>
 
           <p className="mt-4 text-xs text-gray-500">
             Replace the example email address with your real email.
