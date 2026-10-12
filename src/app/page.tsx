@@ -394,7 +394,7 @@ export default function Home() {
           </p>
 
           <a
-            href="mailto:your.email@example.com"
+            href="mailto:christopherdendero@gmail.com"
             className="mt-9 inline-flex rounded-full bg-cyan-400 px-8 py-4 font-semibold text-[#080b12] transition hover:bg-cyan-300"
           >
             Email Me ↗
